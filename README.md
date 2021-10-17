@@ -1,3 +1,5 @@
+![screenshot](https://user-images.githubusercontent.com/11158157/137638500-9e558319-edae-4919-831d-7a47e6f86c5c.png)
+
 # Width Field
 
 A beautiful way to let users choose from custom widths. You can enable/disable when adding the Fieldtype to the Blueprint.
