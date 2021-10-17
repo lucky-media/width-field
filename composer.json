@@ -1,9 +1,15 @@
 {
     "name": "lucky-media/width-field",
+    "description": "A beautiful way to let users choose from custom widths.",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "LuckyMedia\\WidthField\\": "src"
         }
+    },
+    "require": {
+        "php": "^7.3 || ^7.4 || ^8.0",
+        "statamic/cms": "3.2.*"
     },
     "extra": {
         "statamic": {
