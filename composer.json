@@ -1,0 +1,19 @@
+{
+    "name": "lucky-media/width-field",
+    "autoload": {
+        "psr-4": {
+            "LuckyMedia\\WidthField\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Width Field",
+            "description": "A beautiful way to let users choose from custom widths."
+        },
+        "laravel": {
+            "providers": [
+                "LuckyMedia\\WidthField\\ServiceProvider"
+            ]
+        }
+    }
+}
