@@ -2,7 +2,7 @@
 
 # Width Field
 
-A beautiful way to let users choose from custom widths. You can enable/disable when adding the Fieldtype to the Blueprint.
+A beautiful way to let users choose custom widths. You can enable/disable when adding the Fieldtype to the Blueprint.
 
 ### Available Widths
 - Full
