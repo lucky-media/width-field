@@ -8,8 +8,8 @@
         }
     },
     "require": {
-        "php": "^7.3 || ^7.4 || ^8.0",
-        "statamic/cms": "3.2.*"
+        "php": "^8.0 || ^8.1",
+        "statamic/cms": "3.4.*"
     },
     "extra": {
         "statamic": {
