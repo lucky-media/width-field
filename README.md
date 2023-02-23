@@ -45,7 +45,7 @@ This will render one of the following options:
 - three-quarters
 
 ## Commercial addon
-Width Field is a commercial addon - you **must purchase a license** via the [Statamic Marketplace](https://statamic.com/addons/lucky-media/width-field) to use it in your project.
+Width Field is a commercial addon - you **must purchase a license** via the [Statamic Marketplace](https://statamic.com/addons/luckymedia/width-field) to use it in your project.
 
 ## 🐞 Bugs and 💡 Feature Requests
 Please refer to the issues tab to submit a Bug or a Feature Request.
